@@ -1,7 +1,7 @@
 # Cliente del parcial 
 
 ## Ejecución
-Para compilar el proyecto debe use el siguiente comando cuando acceda al directorio SparkWebCalculadora... lo hice con Sparck porque se me hizo mas complicado solo en sockets
+Para compilar el proyecto debe use el siguiente comando cuando acceda al directorio SparkWebCalculadora... lo hice con Spark porque se me hizo mas complicado solo en sockets
 ```
 mvn package
 ```
